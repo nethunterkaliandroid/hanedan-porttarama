@@ -43,4 +43,4 @@ except socket.error:
         sys.exit()
 
 #@nethunterROM
-#tüm hakları m12345'e aittir
+#Tüm hakları m12345'e aittir.
